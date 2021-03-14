@@ -1,0 +1,19 @@
+h3.nav-content {
+    text-decoration: none;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #c959c9;
+}
+
+body {
+    background-color: #000;
+}
+
+img.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
